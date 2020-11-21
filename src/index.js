@@ -1,4 +1,3 @@
-
 import menuItems from './menu.json';
 import menuTemplate from './menu.hbs';
 
